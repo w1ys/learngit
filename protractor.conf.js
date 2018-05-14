@@ -1,6 +1,6 @@
 // Protractor configuration file, see link for more information
 // https://github.com/angular/protractor/blob/master/lib/config.ts
-
+/*量角器 的端到端测试配置，在运行时使用ng e2e*/
 const { SpecReporter } = require('jasmine-spec-reporter');
 
 exports.config = {

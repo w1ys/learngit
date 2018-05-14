@@ -1,3 +1,4 @@
+/*Angular CLI的配置。在这个文件中，您可以设置多个默认值，并配置项目生成时包含的文件*/
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {

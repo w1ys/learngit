@@ -1,3 +1,4 @@
+/*用于Angular app（）和单元测试（）的TypeScript编译器配置。tsconfig.app.jsontsconfig.spec.json*/
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {

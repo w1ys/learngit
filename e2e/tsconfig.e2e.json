@@ -1,3 +1,4 @@
+/*内部e2e/进行端到端测试*/
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {

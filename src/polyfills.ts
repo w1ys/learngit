@@ -1,4 +1,5 @@
 /**
+ * 不同的浏览器对Web标准有不同程度的支持。Polyfills有助于使这些差异正常化
  * This file includes polyfills needed by Angular and is loaded before the app.
  * You can add your own extra polyfills to this file.
  *
