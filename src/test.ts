@@ -1,4 +1,3 @@
-/*这是你的单元测试的主要入口点*/
 // This file is required by karma.conf.js and loads recursively all the .spec and framework files
 
 import 'zone.js/dist/long-stack-trace-zone';

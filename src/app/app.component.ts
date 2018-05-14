@@ -1,4 +1,3 @@
-/*单元测试，只要是以.ts结尾的都是测试文件*/
 import { Component } from '@angular/core';
 
 @Component({

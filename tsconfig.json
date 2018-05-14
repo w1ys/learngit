@@ -1,4 +1,3 @@
-/*TypeScript编译器配置为您的IDE选择并为您提供有用的工具*/
 {
   "compileOnSave": false,
   "compilerOptions": {
